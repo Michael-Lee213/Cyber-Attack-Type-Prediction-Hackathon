@@ -1,5 +1,6 @@
 # ■ 데이콘 대회 준비 
-![image](https://github.com/user-attachments/assets/9011643f-006f-45f6-b807-4a3776251e70)
+![image](https://github.com/user-attachments/assets/26533ff8-6b44-49e7-a2bf-7d4b78cd5ed0)
+
 
 
 - 제목 : 사이버 공격 유형 예측 해커톤: 트래픽 속 위협을 식별하라!
@@ -63,7 +64,5 @@
   - 최종 결과 :
   ![image](https://github.com/user-attachments/assets/efd86b65-3c35-4f1a-aca1-0bad4ab81b53)
 
-
-    ※ 총 1065명 참여, 75등 달성, 상위 7.5% 달성
 
   
